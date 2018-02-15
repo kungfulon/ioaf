@@ -48,6 +48,9 @@ Chuột phải vào **Sven Co-op** trong Steam Library, chọn **Properties**, c
 - [Battle SVEN Weapon pack original](http://www.mediafire.com/file/zfuzcwm50bap9i0/BattleSven.rar)
 - [Ram and Rem character model](http://www.mediafire.com/download/2lltzj5q6di6bix/Ram+and+Rem.rar)
 
+### By Lực & Bond
+- [Special model pack 2018](https://www.facebook.com/groups/511698742226267/permalink/1758182964244499/)
+
 ### By Gordon
 
 - [Map: G-ARA](http://scmapdb.com/map:g-ara)
