@@ -48,6 +48,7 @@ Chuột phải vào **Sven Co-op** trong Steam Library, chọn **Properties**, c
 - [Battle SVEN Weapon pack original](http://www.mediafire.com/file/zfuzcwm50bap9i0/BattleSven.rar)
 - [Ram and Rem character model](http://www.mediafire.com/download/2lltzj5q6di6bix/Ram+and+Rem.rar)
 - [Glow fix for Battle SVEN Weapon pack](http://www.mediafire.com/file/uov7g5vhlu9m3fl/glow_fix%5D.zip)
+- [Thuong dank Gun 2](https://drive.google.com/file/d/1jU-WtBmpAxN2tpMlTYp7Li4ht2_5o0w0/view?usp=sharing)
 
 ### By Lực & Bond
 
